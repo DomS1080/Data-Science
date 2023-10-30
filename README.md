@@ -10,8 +10,8 @@
      * Pandas
      * Numpy
 # [Project 2: Boston Housing Prices Regression Challenge](https://github.com/DomS1080/Data-Science/blob/main/Boston%20Multiple%20Linear%20Regression.ipynb)
-   - Utilized Scikit-Learn's implementation of the multiple linear regression algorithm to predict median housing values by neighborhood, based on neighborhood data/characteristics.
-     * Predictive performance and next steps for iterative analysis are discussed.
+   - Utilized Scikit-Learn's implementation of the multiple linear regression algorithm to predict median housing values by neighborhood, based on neighborhood data/characteristics
+     * Predictive performance and next steps for iterative analysis are discussed
    - Error score achieved: 4.74
    - Key Analysis Components:
      * Data Exploration, Preprocessing, Feature Engineering
