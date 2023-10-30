@@ -1,6 +1,6 @@
 # Data Science Portfolio
 # [Project 1: Titanic Classification Challenge](https://github.com/DomS1080/Data-Science/blob/main/Titanic%20RandomForest%20Classifier%20Ensemble.ipynb)
-   - Optimized ensemble learning algorithm to predict historic event survival based on passenger data
+   - Optimized Scikit-Learn's RandomForest Classifier ensemble learning algorithm to predict historic event survival based on passenger data
    - Validation set accuracy achieved: 85.11%
    - Key Analysis Components:
      * Hyperparameter Tuning, Cross-Validation, Feature Importance
