@@ -1,7 +1,7 @@
 # Data Science Portfolio
 # Project 3: MNIST Fashion MLP Classifier
    - In Progress
-   - Train Multilayer Perceptron ANN/DNN to classify clothing images
+   - Train Multilayer Perceptron (MLP) ANN/DNN to classify clothing images
    - Key Project Components:
      * Deep Neural Network, Computer Vision, Multiclass Classification, Error Analysis
    - Libraries:
