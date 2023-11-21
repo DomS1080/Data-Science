@@ -1,4 +1,10 @@
 # Data Science Portfolio
+# Project 4: Gold Price Time-Series Forecasting
+   - In Progress
+   - Predict spot closing price for 1 oz of Gold over past X days and evaluate against actual values
+   - Key Project Components:
+     * Time-series Forecasting, Data API
+
 # Project 3: MNIST Fashion MLP Classifier
    - In Progress
    - Train Multilayer Perceptron (MLP) ANN/DNN to classify clothing images
