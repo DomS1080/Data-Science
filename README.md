@@ -4,6 +4,10 @@
    - Predict spot closing price for 1 oz of Gold over past X days and evaluate against actual values
    - Key Project Components:
      * Time-series Forecasting, Data API
+   - Libraries:
+     * Darts
+     * Matplotlib
+     * Pandas
 
 # Project 3: MNIST Fashion MLP Classifier
    - In Progress
