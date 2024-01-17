@@ -6,8 +6,9 @@
    - Key Project Components:
      * Deep Neural Network, Computer Vision, Multiclass Classification, Error Analysis
    - Libraries:
-     * PyTorch
+     * TensorFlow
      * Pandas
+     * Numpy
 
 # [Project 3: Gold Price Time-Series Forecasting](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Gold%20Futures%20Time%20Series%20Forecasting/Gold%20Darts%20N-BEATS%20BlockRNN.ipynb)
    - Section 1: Train Darts N-BEATS model to predict closing prices for Gold (1 oz; 'GC=F') over 3 mo. period prior to/after specified date, in varying prediction increments (33, 66 days)
