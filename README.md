@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# Project 4: MNIST Fashion MLP Classifier
+# [Project 4: MNIST Fashion MLP Classifier](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/f-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
    - In Progress
    - Build + Train Multilayer Perceptron (MLP) ANN/DNN to classify clothing images between 10 classes
    - Key Project Components:
@@ -37,7 +37,7 @@
      * Pandas
      * Numpy
 
-# [Project 1: Titanic Classification Challenge](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Titanic%20Classifier/Titanic%20RandomForest%20Classifier%20Ensemble.ipynb)
+# [Project 1: Titanic Classification Challenge](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Titanic%20Classification/Titanic%20RandomForest%20Classifier%20Ensemble.ipynb)
    - Optimized Scikit-Learn's RandomForest Classifier ensemble learning algorithm to predict historic event survival based on passenger data
    - Metric: Accuracy
    - Key Project Components:
