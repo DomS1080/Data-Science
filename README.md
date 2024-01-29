@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [Project 4: MNIST Fashion MLP Classifier](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/f-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
+# [Project 4: MNIST Fashion MLP Classifier](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Fashion-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
    - In Progress
    - Build + Train Multilayer Perceptron (MLP) ANN/DNN to classify clothing images between 10 classes
    - Key Project Components:
