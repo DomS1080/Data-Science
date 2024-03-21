@@ -26,7 +26,7 @@
      * Matplotlib
      * Pandas
 
-# [Project 1: Boston Housing Prices Regression Challenge](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Boston%20Housing%20Prices%20Regression/Boston%20Multiple%20Linear%20Regression.ipynb)
+# [Project 1: Boston Housing Prices Multiple Linear Regression](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Boston%20Housing%20Prices%20Regression/Boston%20Multiple%20Linear%20Regression.ipynb)
    - Utilized Scikit-Learn's implementation of the multiple linear regression algorithm to predict median housing values by neighborhood, based on neighborhood data/characteristics
      * Predictive performance and next steps for iterative analysis are discussed
    - Metric: Root Mean Squared Error (RMSE)
