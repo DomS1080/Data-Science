@@ -15,7 +15,7 @@
 
 # [Project 2: Gold Price Time-Series Forecasting](https://github.com/DomS1080/Data-Science/blob/main/Projects/Supervised%20Learning/Gold%20Futures%20Time%20Series%20Forecasting/Gold%20Darts%20N-BEATS%20BlockRNN.ipynb)
    - Section 1: Train Darts N-BEATS model to predict closing prices for Gold (1 oz; 'GC=F') over 3 mo. period prior to/after specified date, in varying prediction increments (33, 66 days)
-     * Evaluate predictions against actual values (for '3 mo. prior' predictions)
+     * Evaluate predictions against actual values (for 'prior 3 mo.' predictions)
    - Section 2: Utilize Darts BlockRNN model to reduce error by training with 3 selected covariates
    - Metric: Mean Average Percent Error (MAPE)
    - Key Project Components:
