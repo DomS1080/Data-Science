@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 # [Project 3: Fashion-MNIST MLP Classifier](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Fashion-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
-   - Build, train, and compare performance for Multilayer Perceptron (MLP) networks on a 10-class clothing image classification task
+   - Build, train, and compare performance between Multilayer Perceptron (MLP) networks for a 10-class clothing image classification task
      * Evaluate predictive performance by class for each model
    - Metrics: Accuracy, Sparse Categorical Crossentropy Loss
    - Key Project Components:
