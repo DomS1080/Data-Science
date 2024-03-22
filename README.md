@@ -3,8 +3,8 @@
 # [Project 3: Fashion-MNIST MLP Classifier](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Fashion-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
    - Build, train, and compare performance between Tensorflow Multilayer Perceptron (MLP) networks for a 10-class clothing image classification task
      * Compare training characteristics and performance between MLPs using benchmarks set by a baseline structure
-       * Visualize training with Matplotlib & Tensorboard
-     * Evaluate each model's predictive performance on test set, overall and by class
+     * Visualize training with Matplotlib & Tensorboard
+     * Evaluate each model's predictive performance on test set; overall and by class
    - Metrics: Accuracy, Sparse Categorical Crossentropy Loss
    - Key Project Components:
      * Artificial/Deep Neural Network, Computer Vision, Multiclass Classification, Error Analysis
