@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [Project 3: Computer Vision Neural Network](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Fashion-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
+# [Project 3: Computer Vision Neural Networks](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Fashion-MNIST%20Classification/F-MNIST%20Tensorflow%20MLP.ipynb)
    - Build, train, and compare performance between Tensorflow Multilayer Perceptron (MLP) networks for a 10-class clothing image classification task
      * Compare training characteristics and performance between MLPs using benchmarks set by a baseline structure
      * Visualize training with Matplotlib & Tensorboard
