@@ -3,11 +3,12 @@
 # [Project 3: Computer Vision Neural Networks](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Computer%20Vision/F-MNIST%20Tensorflow%20MLPs.ipynb)
    - Built, trained, and compared performance between Tensorflow Multilayer Perceptron (MLP) networks for a 10-class clothing image classification task
      * Compared training characteristics and performance between MLP structures using benchmarks set by a baseline model
+     * Implemented cost-saving measures such as improved optimizers and early stopping based on loss monitoring
      * Visualized training with Matplotlib & Tensorboard
-     * Evaluated each model's predictive performance on test set; overall and by class
+     * Evaluated each model's predictive performance on test set; overall and by label
    - Metrics: Accuracy, Sparse Categorical Crossentropy Loss
    - Key Project Components:
-     * Artificial/Deep Neural Network, Computer Vision, Multiclass Classification, Error Analysis
+     * Artificial/Deep Neural Network, Computer Vision, Deep Learning, Multiclass Classification, Error Analysis
    - Libraries:
      * TensorFlow / Tensorboard
      * Scikit-Learn
