@@ -26,7 +26,7 @@
      * Artificial/Deep Neural Network, Computer Vision, Deep Learning, Multiclass Classification, Error Analysis
    - Libraries:
      * TensorFlow / Tensorboard
-     * Scikit-Learn
+     * Scikit-learn
      * Matplotlib
      * Pandas
      * Numpy
