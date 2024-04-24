@@ -1,7 +1,19 @@
 # Data Science Portfolio
 
-# [Project 4: Customer Segmentation + Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
-   - 
+# [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/6612ec67854ec0f6fb59d241836bd689376d23c2/Projects/Customer/Customer.ipynb)
+   - In-progress
+   - Cluster customers and profile characteristics of clusters
+     * Explore and pre-process customer records
+     * Perform Principal Component Analysis and reduce dimensionality based on preserved variance
+     * Semi-supervised learning: unsupervised clustering + predict clusters
+   - Metrics: Accuracy
+   - Key Project Components:
+     * Customer Segmentation, Cluster Profiling, Principal Component Analysis (PCA)
+   - Libraries:
+     * Scikit-learn
+     * Matplotlib
+     * Pandas
+     * Numpy
 
 # [Project 3: Computer Vision Neural Networks](https://github.com/DomS1080/Data-Science/blob/main/Projects/Deep%20Neural%20Network/Computer%20Vision/F-MNIST%20Tensorflow%20MLPs.ipynb)
    - Built, trained, and compared performance between Tensorflow Multilayer Perceptron (MLP) networks for a 10-class clothing image classification task
