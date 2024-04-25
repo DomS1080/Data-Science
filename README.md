@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/6612ec67854ec0f6fb59d241836bd689376d23c2/Projects/Customer/Customer.ipynb)
+# [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
    - Cluster customers and profile characteristics of clusters
      * Explore and pre-process customer records
@@ -8,7 +8,7 @@
      * Semi-supervised learning: unsupervised clustering + predict clusters
    - Metrics: Accuracy
    - Key Project Components:
-     * Customer Segmentation, Cluster Profiling, Principal Component Analysis (PCA)
+     * Customer Segmentation, Cluster Profiling, Principal Component Analysis (PCA), KMeans, Silhouette Analysis
    - Libraries:
      * Scikit-learn
      * Matplotlib
