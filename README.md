@@ -2,13 +2,13 @@
 
 # [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
-   - Cluster customers and profile characteristics of clusters
-     * Explore and pre-process customer records
-     * Perform Principal Component Analysis and reduce dimensionality based on preserved variance
-     * Semi-supervised learning: unsupervised clustering + predict clusters
+   - Segmentation of ~2500 customer leads using existing labelled data, in order to guide sales outreach strategy
+     * Apply various techniques (unsupervised, supervised, semi-supervised) to analyze existing customers and assign prospective customers to clusters
+     • Profile cluster characteristics, relationship of cluster to spend scores, and developing ideal customer profile
+     * Perform Principal Component Analysis to reduce dimensionality based on preserved variance
    - Metrics: Inertia, Silhouette, Accuracy
    - Key Project Components:
-     * Customer Segmentation, Cluster Profiling, Principal Component Analysis (PCA), KMeans, Silhouette Analysis
+     * Market Segmentation, Cluster Analysis, Dimensionality Reduction, Principal Component Analysis (PCA), KMeans, Silhouette Analysis
    - Libraries:
      * Scikit-learn
      * Matplotlib
