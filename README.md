@@ -5,7 +5,7 @@
    - Apply various techniques to reduce dataset dimensionality, predict customer segment, and analyze customer clusters
      * Dimensionality reduction using Principal Component Analysis (unsupervised learning)
      * Segmentation of ~950 customer records using ~5700 labelled instances using Logistic Regression (supervised learning)
-     * Profile cluster characteristics, relationship of cluster to spend scores, and developing ideal customer profile
+     * Profile cluster characteristics, relationship of cluster to spend scores, and develop ideal customer profile
    - Metrics: Accuracy
    - Key Project Components:
      * Market Segmentation, Cluster Analysis, Dimensionality Reduction, Principal Component Analysis (PCA)
