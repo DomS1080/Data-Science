@@ -4,8 +4,8 @@
    - In-progress
    - Apply various techniques (unsupervised, supervised) to reduce dataset dimensionality, predict customer segment, and analyze customer clusters
      * Dimensionality reduction using Principal Component Analysis (PCA)
-     * Segmentation of ~950 customer records using ~5700 labelled instances 
-     • Profile cluster characteristics, relationship of cluster to spend scores, and developing ideal customer profile
+     * Segmentation of ~950 customer records using ~5700 labelled instances
+     * Profile cluster characteristics, relationship of cluster to spend scores, and developing ideal customer profile
    - Metrics: Accuracy
    - Key Project Components:
      * Market Segmentation, Cluster Analysis, Dimensionality Reduction, Principal Component Analysis (PCA)
