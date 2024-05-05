@@ -2,13 +2,12 @@
 
 # [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
-   - Apply various techniques to reduce dataset dimensionality, predict customer segment, and analyze customer clusters
-     * Dimensionality reduction using Principal Component Analysis (unsupervised learning)
-     * Segmentation of ~950 customer records using ~5700 labelled instances using Logistic Regression (supervised learning)
-     * Profile cluster characteristics incl. relationship of cluster and cluster features to spend scores; develop ideal customer profile
+   - Apply techniques to predict labels using reduced dimensionality dataset and analyze customer clusters
+     * Use Principle Component Analysis on original features and predict labels using Principle Components
+     * Profile cluster characteristics and develop ideal customer profile
    - Metrics: Accuracy
    - Key Project Components:
-     * Market Segmentation, Cluster Analysis, Dimensionality Reduction, Principal Component Analysis (PCA)
+     * Logistic Regression, Dimensionality Reduction, Principal Component Analysis (PCA), Cluster Analysis
    - Libraries:
      * Scikit-learn
      * Matplotlib
