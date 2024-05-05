@@ -4,7 +4,7 @@
    - In-progress
    - Develop ideal customer profile and segment customers using reduced dimensionality dataset
      * Predict customer labels using Principle Components, with at least equivalent accuracy to original features
-     * Analyze cluster characteristics, particularly in regards to spend score
+     * Analyze cluster characteristics, particularly in regards to spend category
    - Metrics: Accuracy
    - Key Project Components:
      * Logistic Regression, Dimensionality Reduction, Principal Component Analysis (PCA), Cluster Analysis
