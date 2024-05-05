@@ -2,9 +2,9 @@
 
 # [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
-   - Apply techniques to predict labels using reduced dimensionality dataset and analyze customer clusters
-     * Use Principle Component Analysis on original features and predict labels using Principle Components
-     * Profile cluster characteristics and develop ideal customer profile
+   - Develop ideal customer profile and segment customers using reduced dimensionality dataset
+     * Predict customer labels with at least equivalent accuracy using Principle Components
+     * Analyze cluster characteristics, particularly in regards to spend score
    - Metrics: Accuracy
    - Key Project Components:
      * Logistic Regression, Dimensionality Reduction, Principal Component Analysis (PCA), Cluster Analysis
