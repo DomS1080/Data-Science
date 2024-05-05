@@ -3,7 +3,7 @@
 # [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
    - Develop ideal customer profile and segment customers using reduced dimensionality dataset
-     * Predict customer labels with at least equivalent accuracy using Principle Components
+     * Predict customer labels using Principle Components, with at least equivalent accuracy to original features
      * Analyze cluster characteristics, particularly in regards to spend score
    - Metrics: Accuracy
    - Key Project Components:
