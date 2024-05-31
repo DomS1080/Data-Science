@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-# [Project 4: Customer Profiling](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
+# [Project 4: Customer Profiles & Segmentation](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
-   - Analyze cluster characteristics and develop profile of highest value leads in regards to spend category
+   - Analyze cluster characteristics and develop profiles of key segments in regards to spend category
      * Predict customer clusters using reduced dimensionality Principle Components and logistic regression,\
        retaining original feature accuracy
    - Metrics: Accuracy
