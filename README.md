@@ -2,7 +2,7 @@
 
 # [Project 4: Customer Profiles & Segmentation](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
    - In-progress
-   - Analyze cluster characteristics and develop profiles of key segments in regards to spend category
+   - Analyze cluster characteristics to develop profile of key segments within spend categories
      * Predict customer clusters using reduced dimensionality Principle Components and logistic regression,\
        retaining original feature accuracy
    - Metrics: Accuracy
