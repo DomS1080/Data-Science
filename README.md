@@ -7,7 +7,7 @@
        retaining original feature accuracy
    - Metrics: Accuracy
    - Key Project Components:
-     * Logistic Regression, Dimensionality Reduction, Principal Component Analysis (PCA), Cluster Analysis
+     * Cluster Analysis, Principle Component Analysis (PCA), Classification, Logistic Regression, Support Vector Machine, Exploratory Data Analysis
    - Libraries:
      * Scikit-learn
      * Matplotlib
