@@ -1,9 +1,20 @@
 # Data Science Portfolio
 
+# [Project 5: 'Census Chat' Chatbot](https://www.kaggle.com/code/doms1080/gemma2-census-rag-chatbot-keras)
+   - Developed a cloud-deployed chatbot app to provide Canadian census information via an LLM fine-tuned\
+     using LoRA, with RAG responses generated from live government webpages
+     * Completed externally as part of KaggleX Fellowship program
+   - Key Project Components:
+     * Chatbot, LLMs, Efficient Fine-tuning (LoRA / PEFT), UX/UI
+   - Libraries:
+     * Gradio
+     * LangChain
+     * Keras NLP
+     * Hugging Face
+
 # [Project 4: Customer Profiles & Segmentation](https://github.com/DomS1080/Data-Science/blob/main/Projects/Customer/Customer.ipynb)
-   - In-progress
-   - Analyze cluster characteristics to develop profiles of key segments within spend categories
-     * Predict customer clusters using reduced dimensionality Principle Components and logistic regression,\
+   - Analyzed cluster characteristics to develop profiles of key segments within spend categories
+     * Predicted customer clusters using reduced dimensionality Principle Components and logistic regression,\
        retaining original feature accuracy
    - Metrics: Accuracy
    - Key Project Components:
