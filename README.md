@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
 # [Project 5: 'Census Chat' Chatbot](https://www.kaggle.com/code/doms1080/gemma2-census-rag-chatbot-keras)
-   - Developed a cloud-deployed chatbot app to provide Canadian census information via an LLM fine-tuned\
-     using LoRA, with RAG responses generated from live government webpages
+   - Developed a cloud-deployed chatbot app to provide Canadian census information via an LLM\
+     fine-tuned using LoRA, with RAG responses generated from live government webpages
      * Completed externally as part of KaggleX Fellowship program
    - Key Project Components:
      * Chatbot, LLMs, Efficient Fine-tuning (LoRA / PEFT), UX/UI
